@@ -6,7 +6,7 @@ public class HomeWork {
 
 	public static void main(String[] args) {
 
-		HomeWork1 h1 = new HomeWork1();
+		HomeWork1 dog = new HomeWork1();
 		System.out.println(h1.mul(12, 6));  //積
 		System.out.println(h1.sum(12, 6));  //和
 		
